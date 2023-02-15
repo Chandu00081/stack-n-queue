@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\bin\Debug\StackndQueue.exe.config
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\bin\Debug\StackndQueue.exe
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\bin\Debug\StackndQueue.pdb
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\obj\Debug\StackndQueue.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\obj\Debug\StackndQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\obj\Debug\StackndQueue.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\obj\Debug\StackndQueue.exe
+C:\Users\pc\Desktop\stack n queue\StackndQueue\StackndQueue\obj\Debug\StackndQueue.pdb
